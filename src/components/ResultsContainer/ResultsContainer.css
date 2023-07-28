@@ -1,0 +1,7 @@
+.result-container{
+    display: flex;
+    margin-top: 20px;
+    padding:  40px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
